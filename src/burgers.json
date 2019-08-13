@@ -102,5 +102,13 @@
     "distance": 500,
     "minutes": 7,
     "type": "restaurant"
+  },
+  {
+    "name": "Barrels, Burgers and Beer",
+    "web": "https://barrels.se",
+    "map": "https://goo.gl/maps/2TSTnuxcWjAZqntF9",
+    "distance": 1300,
+    "minutes": 16,
+    "type": "restaurant"
   }
 ]
