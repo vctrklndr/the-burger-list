@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/the-burger-list/static/css/main.bb284bf0.chunk.css",
+    "main.js": "/the-burger-list/static/js/main.0d3118d9.chunk.js",
+    "main.js.map": "/the-burger-list/static/js/main.0d3118d9.chunk.js.map",
+    "runtime~main.js": "/the-burger-list/static/js/runtime~main.3edb5433.js",
+    "runtime~main.js.map": "/the-burger-list/static/js/runtime~main.3edb5433.js.map",
+    "static/js/2.a4e7c35b.chunk.js": "/the-burger-list/static/js/2.a4e7c35b.chunk.js",
+    "static/js/2.a4e7c35b.chunk.js.map": "/the-burger-list/static/js/2.a4e7c35b.chunk.js.map",
+    "index.html": "/the-burger-list/index.html",
+    "precache-manifest.64e54af1732f6bdc74556a3d67689ce2.js": "/the-burger-list/precache-manifest.64e54af1732f6bdc74556a3d67689ce2.js",
+    "service-worker.js": "/the-burger-list/service-worker.js",
+    "static/css/main.bb284bf0.chunk.css.map": "/the-burger-list/static/css/main.bb284bf0.chunk.css.map",
+    "static/media/App.scss": "/the-burger-list/static/media/GT-Pressura-Mono-Regular.b57fdd06.ttf",
+    "static/media/beer.gif": "/the-burger-list/static/media/beer.7d68792e.gif",
+    "static/media/burger.gif": "/the-burger-list/static/media/burger.8b78603f.gif",
+    "static/media/burger_asmr.mp3": "/the-burger-list/static/media/burger_asmr.8c9e3890.mp3",
+    "static/media/chair.svg": "/the-burger-list/static/media/chair.5ee866bf.svg",
+    "static/media/foodtruck.svg": "/the-burger-list/static/media/foodtruck.760db2da.svg",
+    "static/media/fries.gif": "/the-burger-list/static/media/fries.9be8b1d7.gif",
+    "static/media/headphones-2.gif": "/the-burger-list/static/media/headphones-2.10a8fec9.gif",
+    "static/media/logo.png": "/the-burger-list/static/media/logo.199c4a00.png",
+    "static/media/noa.png": "/the-burger-list/static/media/noa.aba701fa.png",
+    "static/media/takeaway.svg": "/the-burger-list/static/media/takeaway.156a4806.svg"
+  }
+}

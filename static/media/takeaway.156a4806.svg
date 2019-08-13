@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="22px" viewBox="0 0 19 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Burger-1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-866.000000, -726.000000)" fill="#3C3F44" id="Group-5">
+            <g transform="translate(866.000000, 726.000000)">
+                <path d="M17,20 L14,20 L14,9.12 L15.5,3.12 L17,9.12 L17,20 Z M12.03,8.76 L12,20 L2,20 L2,9.12 L3.78,2 L13.72,2 L12.03,8.76 Z M17.16,1.52 C16.939,0.63 16.14,0 15.22,0 L3.78,0 C2.86,0 2.061,0.63 1.84,1.52 L0.03,8.76 L0,20 C0,21.1 0.9,22 2,22 L17,22 C18.1,22 19,21.1 19,20 L19,9 L17.16,1.52 Z" id="Fill-1"></path>
+                <path d="M10,6.5 L5.5,6.5 C4.947,6.5 4.5,6.052 4.5,5.5 C4.5,4.948 4.947,4.5 5.5,4.5 L10,4.5 C10.553,4.5 11,4.948 11,5.5 C11,6.052 10.553,6.5 10,6.5" id="Fill-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>
