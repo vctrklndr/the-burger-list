@@ -1,0 +1,29 @@
+.Corner-rightBottom {
+  display: none;
+}
+
+.Corner-leftTop {
+  display: none;
+}
+
+@media screen and (min-width: 768px) {
+  .Corner {
+    display: block;
+    position: absolute;
+    width: 0;
+    height: 0;
+  }
+  .Corner-rightBottom {
+    bottom: 0;
+    right: 0;
+    border-bottom: 50px solid #000;
+    border-left: 50px solid transparent;
+  }
+  
+  .Corner-leftTop {
+    top: 0;
+    left: 0;
+    border-top: 50px solid #000;
+    border-right: 50px solid transparent;
+  }
+}

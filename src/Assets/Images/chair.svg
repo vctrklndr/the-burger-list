@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="24px" viewBox="0 0 14 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>Group 6 Copy 9</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Burger-1.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-869.000000, -464.000000)" id="Group-6-Copy-9" stroke="#3C3F44" stroke-width="2">
+            <g transform="translate(870.000000, 465.000000)">
+                <path d="M2,15 L2,22" id="Line-3" stroke-linecap="round"></path>
+                <path d="M10,15 L10,22" id="Line-3-Copy" stroke-linecap="round"></path>
+                <rect id="Rectangle" x="1" y="0" width="10" height="8" rx="1"></rect>
+                <rect id="Rectangle" x="0" y="11" width="12" height="4" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

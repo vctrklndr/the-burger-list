@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Flippin' Burgers",
+    "web": "http://flippinburgers.se",
+    "map": "https://goo.gl/maps/nR2JCLU9zMFd9xGw8",
+    "distance": 800,
+    "minutes": 12,
+    "type": "restaurant"
+  },
+  {
+    "name": "Lådan",
+    "web": "http://flippinburgers.se/ladan",
+    "map": "https://goo.gl/maps/7HiBoWvXFNVZ1UwCA",
+    "distance": 300,
+    "minutes": 4,
+    "type": "restaurant"
+  },
+  {
+    "name": "Franky's Burger",
+    "web": "http://frankysburger.se",
+    "map": "https://goo.gl/maps/1t6Vetceqy13gn2z7",
+    "distance": 450,
+    "minutes": 5,
+    "type": "restaurant"
+  },
+  {
+    "name": "Bastard Burgers",
+    "web": "https://bastardburgers.se",
+    "map": "https://goo.gl/maps/KhrLzDc2frAagryE8",
+    "distance": 300,
+    "minutes": 3,
+    "type": "restaurant"
+  },
+  {
+    "name": "Phil's Burger",
+    "web": "https://www.philsburger.se",
+    "map": "https://goo.gl/maps/2XWhbtLg3LxXpzjGA",
+    "distance": 650,
+    "minutes": 8,
+    "type": "restaurant"
+  },
+  {
+    "name": "Bores",
+    "web": "http://bores.se",
+    "map": "https://goo.gl/maps/Y4gjZmRrLiJkE2pbA",
+    "distance": 350,
+    "minutes": 4,
+    "type": "takeaway"
+  },
+  {
+    "name": "Henkes Grill",
+    "web": "https://onlinepizza.se/restaurant/v1qq/stockholm-henkes-grill-2",
+    "map": "https://goo.gl/maps/vNKuMt7JUeJKXS1fA",
+    "distance": 700,
+    "minutes": 9,
+    "type": "takeaway"
+  },
+  {
+    "name": "Gnarly Burger",
+    "web": "https://www.gnarlyburger.se",
+    "map": "https://goo.gl/maps/YrAnBUZAVmWwfT7r5",
+    "distance": 550,
+    "minutes": 7,
+    "type": "restaurant"
+  },
+  {
+    "name": "Jureskogs",
+    "web": "https://www.jureskogs.se",
+    "map": "https://goo.gl/maps/CTYKVJoa4KbxxKrp8",
+    "distance": 500,
+    "minutes": 6,
+    "type": "restaurant"
+  },
+  {
+    "name": "Vigårda",
+    "web": "https://vigarda.se",
+    "map": "https://goo.gl/maps/4CMyUmyF95sA5ecY8",
+    "distance": 1200,
+    "minutes": 14,
+    "type": "restaurant"
+  },
+  {
+    "name": "Prime Burger",
+    "web": "https://www.primeburger.se",
+    "map": "https://goo.gl/maps/kng5kERcd1KoHVB98",
+    "distance": 700,
+    "minutes": 9,
+    "type": "restaurant"
+  },
+  {
+    "name": "Baba's Burger",
+    "web": "https://www.babas.nu",
+    "map": "https://goo.gl/maps/SEAGUME5Z3Jp1nz18",
+    "distance": 50,
+    "minutes": 1,
+    "type": "foodtruck"
+  },
+  {
+    "name": "Lennart & Bror",
+    "web": "https://www.lennartochbror.se",
+    "map": "https://goo.gl/maps/uPMwhWDaW5zDXVHS8",
+    "distance": 500,
+    "minutes": 7,
+    "type": "restaurant"
+  }
+]

@@ -1,0 +1,29 @@
+@import "Fonts.scss";
+@import "Base.scss";
+@import "Corner.scss";
+@import "Display.scss";
+@import "Headphones.scss";
+@import "Icon.scss";
+@import "Image.scss";
+@import "List.scss";
+@import "Page.scss";
+@import "Utils.scss";
+
+.Heading {
+  font-weight: 400;
+}
+
+.Heading--h1 {
+  font-size: 2rem;
+}
+
+.Section-icons {
+  max-width: 360px;
+  margin: 0 auto;
+}
+
+.BurgerASMR {
+  margin-top: -20px;
+  position: relative;
+  z-index: 10;
+}

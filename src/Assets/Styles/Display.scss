@@ -1,0 +1,15 @@
+.hidden {
+  display: none;
+}
+
+.block {
+  display: block;
+}
+
+.Grid {
+  display: flex;
+  flex-flow: row wrap;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}

@@ -1,0 +1,38 @@
+.List-container {
+  padding: 15px 0;
+  border-top: 1px solid #d8d8d8;
+  border-bottom: 1px solid #d8d8d8;
+}
+
+.List-heading {
+  margin-bottom: 5px;
+  font-weight: bold;
+  font-size: 1rem;
+  text-transform: uppercase;
+  font-family: "GT-Pressura-Mono-Bold", monospace;
+  letter-spacing: 0.05rem;
+}
+
+.List-heading:hover {
+  cursor: pointer;
+}
+
+.List {
+  margin: 0 auto;
+  padding: 0;
+  max-width: 500px;
+  font-size: 0.9rem;
+  letter-spacing: 0.1rem;
+  list-style: none;
+}
+
+.List-item {
+  padding-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.List-item:last-of-type {
+  padding: 0 !important;
+}

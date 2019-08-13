@@ -1,24 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import "./Assets/Styles/App.scss";
+import Corner from "./Components/Corner";
+import Header from "./Components/Header";
+import Icons from "./Components/Icons";
+import BurgerList from "./Components/BurgerList";
+import BurgerSound from "./Components/BurgerSound";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="Page-container">
+      <Corner className="Corner Corner-leftTop" />
+      <Header version="1.2.1" />
+      <main>
+        <Icons />
+        <BurgerList />
+        <BurgerSound />
+      </main>
+      <Corner className="Corner Corner-rightBottom" />
     </div>
   );
 }

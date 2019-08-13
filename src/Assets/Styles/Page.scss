@@ -1,0 +1,14 @@
+.Page-container {
+  margin: 0 auto;
+  padding: 40px 20px;
+  transition: padding 800ms;
+  max-width: 768px;
+  background-color: #fcf3e9;
+  position: relative;
+}
+
+@media screen and (min-width: 768px) {
+  .Page-container {
+    padding: 60px 20px;
+  }
+}

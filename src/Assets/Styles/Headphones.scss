@@ -1,0 +1,22 @@
+.Headphones {
+  margin: 0 auto;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.Headphones:hover {
+  cursor: pointer;
+}
+
+.Headphones-icon {
+  margin-top: -10px;
+  width: 120px;
+  transition: transform 800ms;
+}
+
+.Headphones-icon:hover {
+  transform: scale(1.2);
+}
