@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/the-burger-list/static/css/main.bb284bf0.chunk.css",
-    "main.js": "/the-burger-list/static/js/main.76984332.chunk.js",
-    "main.js.map": "/the-burger-list/static/js/main.76984332.chunk.js.map",
+    "main.js": "/the-burger-list/static/js/main.fadbb5cb.chunk.js",
+    "main.js.map": "/the-burger-list/static/js/main.fadbb5cb.chunk.js.map",
     "runtime~main.js": "/the-burger-list/static/js/runtime~main.3edb5433.js",
     "runtime~main.js.map": "/the-burger-list/static/js/runtime~main.3edb5433.js.map",
     "static/js/2.a4e7c35b.chunk.js": "/the-burger-list/static/js/2.a4e7c35b.chunk.js",
     "static/js/2.a4e7c35b.chunk.js.map": "/the-burger-list/static/js/2.a4e7c35b.chunk.js.map",
     "index.html": "/the-burger-list/index.html",
-    "precache-manifest.a908c6c6bcfa82371703188848505187.js": "/the-burger-list/precache-manifest.a908c6c6bcfa82371703188848505187.js",
+    "precache-manifest.5c164188f7617c8daaea83012e1c7fa9.js": "/the-burger-list/precache-manifest.5c164188f7617c8daaea83012e1c7fa9.js",
     "service-worker.js": "/the-burger-list/service-worker.js",
     "static/css/main.bb284bf0.chunk.css.map": "/the-burger-list/static/css/main.bb284bf0.chunk.css.map",
     "static/media/App.scss": "/the-burger-list/static/media/GT-Pressura-Mono-Regular.b57fdd06.ttf",
